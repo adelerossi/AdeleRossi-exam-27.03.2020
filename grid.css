@@ -1,0 +1,15 @@
+main {
+  display: grid;
+  grid-template-columns: 320px 234px 98px;
+  max-width: 634px;
+  margin: 40px auto;
+  align-items: top;
+
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+}
